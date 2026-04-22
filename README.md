@@ -21,7 +21,7 @@ Mi pasión es construir el futuro de la automatización mediante el uso de **Age
 Creo firmemente que la seguridad debe ser nativa en el desarrollo de software. Actualmente, investigo cómo utilizar **LangGraph** para automatizar tareas de seguridad defensiva y auditoría de código.
 Usa el código con precaución.
 💡 Tips para potenciar tu perfil en GitHub:
-Iconos visuales: Puedes usar servicios como Shields.io para añadir "badges" de tus lenguajes, por ejemplo: ![Python](https://shields.io).
+Iconos visuales: Puedes usar servicios como Shields.io para añadir "badges" de tus lenguajes, por ejemplo: Python
 Gráfica de LangGraph: Si tienes un proyecto específico, incluye un diagrama del grafo (puedes exportar la imagen desde el código) para mostrar visualmente cómo conectas los nodos.
 Proyectos destacados: Crea una sección de "Proyectos Top" donde vincules tu repositorio más avanzado de agentes.
 ¿Te gustaría que redacte una sección específica de "Proyectos Destacados" enfocada en algún agente que ya hayas construido?
@@ -36,5 +36,4 @@ Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pedro-Cib&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
-Lenguajes 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
